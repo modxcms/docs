@@ -5,7 +5,8 @@ This project is for managing issues and improving the official [MODX Documentati
 ### Reporting an Edit or Change
 Please include the title of the page and the URL of the page from the document at the MODX Documentation site. 
 
-E.g. ```There is the same sentence twice at the bottom of the page 
+E.g. 
+```There is the same sentence twice at the bottom of the page 
 / 
 /
 
