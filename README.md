@@ -2,8 +2,8 @@
 This project is for managing issues and improving the official [MODX Documentation](http://rtfm.modx.com/). The documentation is not yet in a distributable format and only issues are currently handled on GitHub.
 
 ## Creating Issues
-### Suggesting an Edit or Reporting an Issue
-Please include the title of the page and the URL of the page from the document at the MODX Documentation site. 
+### Formatting Your Suggested Edit or Issue Report
+Please include the title of the page and the URL of the page from the document at the MODX Documentation site along with a detailed description of the issue or change.
 
 E.g. 
 
@@ -22,6 +22,8 @@ Don't worry if you get a white screen when trying to create a
 Copyrighted Resource – we haven't created the controllers yet.
 
 ```
+### Submit Your Issue
+To submit a new issue, go here: https://github.com/modxcms/docs/issues/new
 
 ## Documentation Editor Access
 
