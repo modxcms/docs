@@ -3,23 +3,20 @@ This project is for managing issues and improving the official [MODX Documentati
 
 ## Creating Issues
 ### Formatting Your Suggested Edit or Issue Report
-Please include the title of the page and the URL of the page from the document at the MODX Documentation site along with a detailed description of the issue or change.
+Please include the title of the page and the URL of the page from the document at the MODX Documentation site along with a detailed description of the issue or change. This should be automatically populated if you followed the _Suggest an edit_ link on the bottom of the page. 
 
 E.g. 
 
 ```
-Page Title: Creating a Resource Class - Step 2
-URL: http://rtfm.modx.com/revolution/2.x/developing-in-modx/advanced-development/custom-resource-classes/creating-a-resource-class/creating-a-resource-class-step-2
+## Page Title
+Installation
 
-Issue: 
+## URL
+http://rtfm.modx.com/revolution/2.x/getting-started/installation
 
-There is the same sentence twice at the bottom of the page 
-When you try to add a new Copyrighted Resource, however, you will only 
-get a white screen! This is normal – we haven't created the controller 
-files yet.
+## Issue or Suggestion
 
-Don't worry if you get a white screen when trying to create a 
-Copyrighted Resource – we haven't created the controllers yet.
+There is a typo in the middle of the 3rd paragraph in the word Resource, it should be Resources. 
 
 ```
 ### Submit Your Issue
